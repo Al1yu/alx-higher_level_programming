@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-#aliyu haruna <harunaaliyu6449@gmail.com>
+#aliyu haruna
 
 
 def magic_calculation(a, b, c):
