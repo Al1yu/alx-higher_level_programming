@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-remove_char_at.py
-#aliyu haruna <harunaaaliyu6449@gmail.com>
+# aliyu haruna <harunaaaliyu6449@gmail.com>
 
 
 def remove_char_at(str, n):
