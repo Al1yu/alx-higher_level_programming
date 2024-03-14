@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 100-my_calculator.py
 # Aliyu Haruna <harunaaliyu6449@gmail.com>
