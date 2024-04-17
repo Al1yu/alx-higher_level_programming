@@ -11,4 +11,7 @@ def number_of_lines(filename=""):
         for line in f:
             lines += 1
     return lines
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5bb7c6617563c4ce144c7932f7bc2d580523c2d5
